@@ -19,7 +19,9 @@ subtitle: '동아대학교 컴퓨터공학과'
 4) 정보산업을 선도할 창의적, 국제적 인재를 육성한다. 
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+DONG-A UNIVERSITY
+Department of 
+Computer Engineering
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
