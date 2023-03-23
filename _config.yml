@@ -19,13 +19,13 @@ NickName: 'SpongeBob'
 webtitle: 'SNS web'
 bio: 'your awesome bio'
 about: true
-aboutyou: 'your introduction'
+aboutyou: '동아대학교 컴퓨터공학과 권진호 입니다.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: '@gmail.com'
   weixin: '' # 你的微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
