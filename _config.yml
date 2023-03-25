@@ -17,7 +17,7 @@ author: true
 name: 'jinho kwon'
 NickName: 'SpongeBob'
 webtitle: 'SNS web'
-bio: 'your awesome bio'
+bio: ''
 about: true
 aboutyou: '동아대학교 컴퓨터공학과 권진호 입니다.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
